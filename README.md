@@ -22,11 +22,8 @@ The dataset consists of two CSV files: `takehome_users.csv` and `takehome_user_e
 
 ## Findings
 Factors predicting user adoption:
-1. Number of login days within a seven-day period.
-2. Creation source (website or personal projects).
-3. Opt-in to mailing list.
+1.Organization_id
+2.The hour and week day that account was created
 
 Further research and data collection are recommended to validate and expand upon these findings.
 
-## Conclusion
-This analysis identified factors influencing user adoption. By focusing on user engagement, optimizing sign-up processes, and implementing targeted marketing strategies, the product can enhance user adoption.
